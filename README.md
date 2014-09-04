@@ -1,3 +1,4 @@
+* install instructions for ubuntu 14.04
     apt-get install -y software-properties-common
     apt-add-repository ppa:ansible/ansible
     apt-get update && apt-get upgrade -y
